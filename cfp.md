@@ -1,6 +1,6 @@
 # Call for Papers
 
-You can submit your CFP here: https://goo.gl/GUeNN5
+You can submit your CFP here: 
 
 Timeline:
 
