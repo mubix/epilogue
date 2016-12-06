@@ -1,6 +1,6 @@
 # ShmooCon Epilogue 2017
 
-![](/imgs/novahackers.png)
+![](imgs/novahackers.png)
 
 ## What is ShmooCon Epilogue ?
 
@@ -17,14 +17,18 @@ January 16th 2017, 9 AM to 9 PM
 
 Thanks to [Mach37](https://www.mach37.com) we are back at the CIT building this year! See the [Venue](venue.md) page for more details
 
-## Sponsors
+## Sponsors 
+
+#### Platinum Sponsors
 
 
-### Platinum Sponsors ($5000 or Venue)
+#### Venue Sponsor
 
-!()[/imgs/mach37.jpg]
-
-### Gold Sponsors ($1000)
+<a href="https://www.mach37.com"><img width=200px src="imgs/mach37.jpg"></a>
 
 
-### Silver Sponsors ($100)
+### Gold Sponsors
+
+
+### Silver Sponsors
+
