@@ -19,27 +19,27 @@ Why not?
 
 Ok, so the talks are very technical, Attack/Defend/Technique/Tool talks. 
 
-If you have a social science talk, a industry talk, etc, you're still welcome to submit!
-We like technical talks, but meta talks about the industry are still interesting.
+However, if you have a social science talk, a industry talk, etc, you're still welcome to submit!
+We like technical talks, but meta talks about the industry are still interesting, and give us great perspective.
 
 Some potential topics: (Thanks @HITB!)
 
-Cloud Security
-File System Security
-3G/4G/WIMAX Security
-SS7/GSM/VoIP Security
-Security of Medical Devices
-Critical Infrastructure Security
-Smartphone / MobileSecurity
-Smart Card and Physical Security
-Network Protocols, Analysis and Attacks
-Applications of Cryptographic Techniques
-Side Channel Analysis of Hardware Devices
-Analysis of Malicious Code / Viruses / Malware
-Data Recovery, Forensics and Incident Response
-Hardware based attacks and reverse engineering
-Windows / Linux / OS X / *NIX Security Vulnerabilities
-Next Generation Exploit and Exploit Mitigation Techniques
-NFC, WLAN, GPS, HAM Radio, Satellite, RFID and Bluetooth Security
+Cloud Security <br>
+File System Security <br>
+3G/4G/WIMAX Security<br>
+SS7/GSM/VoIP Security<br>
+Security of Medical Devices<br>
+Critical Infrastructure Security<br>
+Smartphone / MobileSecurity<br>
+Smart Card and Physical Security<br>
+Network Protocols, Analysis and Attacks<br>
+Applications of Cryptographic Techniques<br>
+Side Channel Analysis of Hardware Devices<br>
+Analysis of Malicious Code / Viruses / Malware<br>
+Data Recovery, Forensics and Incident Response<br>
+Hardware based attacks and reverse engineering<br>
+Windows / Linux / OS X / *NIX Security Vulnerabilities<br>
+Next Generation Exploit and Exploit Mitigation Techniques<br>
+NFC, WLAN, GPS, HAM Radio, Satellite, RFID and Bluetooth Security<br>
 
 
