@@ -31,7 +31,7 @@ Thanks to [Mach37](https://www.mach37.com) we are back at the CIT building this 
 
 ### Gold Sponsors
 
-<a href="https://urbanesecurity.com/"><img width=200px src="imgs/urbane.png"></a>
+<a href="https://urbanesecurity.com/"><img width=300px src="imgs/urbane.png"></a>
 
 ### Silver Sponsors
 
