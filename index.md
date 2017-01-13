@@ -35,3 +35,5 @@ Thanks to [Mach37](https://www.mach37.com) we are back at the CIT building this 
 
 ### Silver Sponsors
 
+<a href="http://www.pipercompanies.com/"><img width=300px src="imgs/piper.png"></a>
+
