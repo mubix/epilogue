@@ -9,5 +9,5 @@ Tysons, VA
 
 https://www.capitalonecareers.com/
 
-[![](imgs/capitalone.jpg)](https://www.capitalonecareers.com/)
+[![](imgs/capitalone.png)](https://www.capitalonecareers.com/)
 
