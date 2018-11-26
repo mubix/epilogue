@@ -4,4 +4,5 @@
 [Tickets](https://epilogue2019.eventbrite.com)
 [Schedule](schedule.md)
 [Venue](venue.md)
+[CTF](ctf.md)
 [Sponsors](sponsors.md)
