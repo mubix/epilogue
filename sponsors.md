@@ -32,7 +32,7 @@ We have had a very wide range of attendees over the years, from CEOs of governme
 
 Sponsors must comply with the following dates for the rewards at their level to be provided. If not provided by the due date the reward is forfeit.
 
-- Jan 1 2017 - Logo to be displayed on Lanyard or Badge. Provided to rob@novahackers.com in PNG or TIFF format
-- Jan 6 2017 – Logo to be displayed on website and talk recordings. Provided to rob@novahackers.com in PNG or TIFF format
-- Jan 9 2017 – Sponsored ticket sign ups. Coupon code for sponsor tickets will be provided to PoC upon successful agreement of sponsorship.
-- Jan 10 2017 – If the Sponsors at Gold or Platinum level wish to have Epilogue organizers read text instead of having someone present for their talking time, this is the date that document needs to be provided by. Provided document to rob@novahackers.com
+- Jan 1 2019 - Logo to be displayed on Lanyard or Badge. Provided to rob@novahackers.com in PNG or TIFF format
+- Jan 6 2019 – Logo to be displayed on website and talk recordings. Provided to rob@novahackers.com in PNG or TIFF format
+- Jan 9 2019 – Sponsored ticket sign ups. Coupon code for sponsor tickets will be provided to PoC upon successful agreement of sponsorship.
+- Jan 10 2019 – If the Sponsors at Gold or Platinum level wish to have Epilogue organizers read text instead of having someone present for their talking time, this is the date that document needs to be provided by. Provided document to rob@novahackers.com
