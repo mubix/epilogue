@@ -1,7 +1,7 @@
-# Epilogue 2017
+# Epilogue 2019
 
 [Home](index.md)
-[Tickets](https://epilogue2017.eventbrite.com)
+[Tickets](https://epilogue2019.eventbrite.com)
 [Schedule](schedule.md)
 [Venue](venue.md)
 [Sponsors](sponsors.md)
