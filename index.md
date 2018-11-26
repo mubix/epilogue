@@ -1,4 +1,4 @@
-# ShmooCon Epilogue 2017
+# ShmooCon Epilogue 2018
 
 ![](imgs/novahackers.png)
 
