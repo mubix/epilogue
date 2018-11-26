@@ -11,7 +11,7 @@ Airport Recommendation: **Washington Dulles**
 
 ## When ?
 
-January 16th 2017, 9 AM to 9 PM
+January 21st 2019, 9 AM to 9 PM
 
 ## Where? 
 
