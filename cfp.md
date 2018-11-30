@@ -4,6 +4,7 @@ You can submit your CFP here:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScijMxmz9Be3RuAA1JINFTKaI691incc5ssyNdFjtvZfvrjrw/viewform?embedded=true" width="640" height="340" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
+
 So now let's talk about talks! What do we want to see and hear about at Shmoocon Epilogue? Well, have you ever been to a NOVAHackers meeting? **No!?!?!?!? Why not?**
 
 Ok, so the talks are very technical, Attack/Defend/Technique/Tool talks. 
