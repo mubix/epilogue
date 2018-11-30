@@ -1,9 +1,6 @@
 # Call for Papers
 
-You can submit your CFP here:
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScijMxmz9Be3RuAA1JINFTKaI691incc5ssyNdFjtvZfvrjrw/viewform?embedded=true" width="640" height="1340" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
+You can submit your CFP below (or click this link): http://bit.ly/epiloguecfp2019
 
 So now let's talk about talks! What do we want to see and hear about at Shmoocon Epilogue? Well, have you ever been to a NOVAHackers meeting? **No!?!?!?!? Why not?**
 
@@ -38,3 +35,6 @@ Some potential topics: (Thanks @HITB!)
 - Windows / Linux / OS X / *NIX Security Vulnerabilities
 - Next Generation Exploit and Exploit Mitigation Techniques
 - NFC, WLAN, GPS, HAM Radio, Satellite, RFID and Bluetooth Security
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScijMxmz9Be3RuAA1JINFTKaI691incc5ssyNdFjtvZfvrjrw/viewform?embedded=true" width="640" height="1340" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
