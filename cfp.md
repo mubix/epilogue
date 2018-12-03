@@ -2,19 +2,15 @@
 
 You can submit your CFP below (or click this link): http://bit.ly/epiloguecfp2019
 
-So now let's talk about talks! What do we want to see and hear about at Shmoocon Epilogue? Well, have you ever been to a NOVAHackers meeting? **No!?!?!?!? Why not?**
 
-Ok, so the talks are very technical, Attack/Defend/Technique/Tool talks. 
-
-However, if you have a social science talk, a industry talk, etc, you're still welcome to submit!
-We like technical talks, but meta talks about the industry are still interesting, and give us great perspective.
+What do we want to see and hear about at Shmoocon Epilogue?  The Epilogue CFP is open!  We are looking for all talks regarding security from super technical to beginner.  Red/Blue/Purple/Physical security subjects are all accepted.  If you have a social science talk, a industry talk, etc, you're also welcome to submit. Meta talks about the industry give us great perspective.
 
 Timeline:
 
-- ** Jan 1 - CFP closes**
-- ** Jan 5 - CFP winners announced **
-
-We realize this is a tough timeline to hit for people who travel. But if you submit and don't get accepted, as long as it's a "decent" (yes subjective, read "no-automated") submission, you'll get a link to pay for a ticket into the con, even if we are sold out.
+    Jan 1 - CFP closes
+    Jan 5 - CFP winners announced
+   
+We realize this is a tough timeline to hit for people who travel.  If you submit and don't get accepted, as long as it's a "decent" (yes subjective, read "not automatic") submission, you'll get a ticket into the con, even if we are sold out.
 
 Some potential topics: (Thanks @HITB!)
 
