@@ -15,6 +15,8 @@ January 21st 2019, 9 AM to 9 PM
 
 ## Where? 
 
+Capital One Conference Center, 1680 Capital One Drive, McLean, VA 22102
+
 Thanks to [CapitalOne](https://www.capitalone.com) for their use of thier brand new conference center. See the [Venue](venue.md) page for more details
 
 ## Sponsors 
