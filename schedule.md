@@ -1,8 +1,21 @@
 
 # 2019 Schedule
 
-|Talk Title/Description 	| Speaker 	| Start Time 	| End Time 	|
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------------------	|------------	|----------	|
+|                        Talk Title/Description                        |       Speaker       | Start Time | End Time |
+|:--------------------------------------------------------------------:|:-------------------:|:----------:|:--------:|
+| Inflow                                                               |         NOVA        |    0900    |   1000   |
+| Let's Blow Up the SIEM and Start Over                                |  Craig Chamberlain  |    1000    |   1100   |
+| Aggressive Autonomous Actions - Operating with Automation            | Christopher Truncer |    1100    |   1200   |
+| Lunch                                                                |         NOVA        |    1200    |   1230   |
+| Testing With Proxmox                                                 |        Fred M       |    1230    |   1300   |
+| The Jinja Ninja: Exploiting Jinja Template Engine for Code Execution |   Eyitemi Egbejule  |    1300    |   1400   |
+| How to People: When the Tech Works But Communication is Broken       |        Mariah       |    1400    |   1500   |
+| Be Smart about Bringing Home IoT                                     |         Josh        |    1500    |   1600   |
+| How to Solve Cybersecurity: New Paradigms for a New Era              |        Sounil       |    1600    |   1700   |
+| Dinner                                                               |         NOVA        |    1800    |   1830   |
+| Empire Mice: Empire stagers via mousejacking                         |    Skylar Simmons   |    1830    |   1900   |
+| Watch All the Things                                                 |  Timothy Desrochers |    1900    |   2000   |
+| Cloudy with a Chance of Cloudy                                       |        eibei9       |    2000    |   2100   |
 
 
 # 2017 Schedule
