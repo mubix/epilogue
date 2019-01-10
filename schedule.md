@@ -5,7 +5,7 @@
 |--------------------------------------------------------------------|:-------------------:|:----------:|:--------:|
 | **Inflow** | NOVA | 0900 | 1000 |
 | **Let's Blow Up the SIEM and Start Over** <br/> | Craig Chamberlain | 1000 | 1100 |
-| **Aggressive Autonomous Actions - Operating with Automation ** <br/> | Christopher Truncer | 1100 | 1200 |
+| **Aggressive Autonomous Actions - Operating with Automation** <br/> | Christopher Truncer | 1100 | 1200 |
 | **Lunch** | NOVA | 1200 | 1230 |
 | **Testing With Proxmox** <br/> | Fred M | 1230 | 1300 |
 | **The Jinja Ninja: Exploiting Jinja Template Engine for Code Execution** <br/> | Eyitemi Egbejule | 1300 | 1400 |
