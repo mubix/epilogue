@@ -3,19 +3,20 @@
 
 | Talk Title/Description | Speaker | Start Time | End Time |
 |--------------------------------------------------------------------|:-------------------:|:----------:|:--------:|
-| Inflow | NOVA | 0900 | 1000 |
-| Let's Blow Up the SIEM and Start Over | Craig Chamberlain | 1000 | 1100 |
-| Aggressive Autonomous Actions - Operating with Automation | Christopher Truncer | 1100 | 1200 |
-| Lunch | NOVA | 1200 | 1230 |
-| Testing With Proxmox | Fred M | 1230 | 1300 |
-| The Jinja Ninja: Exploiting Jinja Template Engine for Code Execution | Eyitemi Egbejule | 1300 | 1400 |
-| How to People: When the Tech Works But Communication is Broken | Mariah | 1400 | 1500 |
-| Be Smart about Bringing Home IoT | Josh | 1500 | 1600 |
-| How to Solve Cybersecurity: New Paradigms for a New Era | Sounil | 1600 | 1700 |
-| Dinner | NOVA | 1800 | 1830 |
-| Empire Mice: Empire stagers via mousejacking | Skylar Simmons | 1830 | 1900 |
-| Watch All the Things | Timothy Desrochers | 1900 | 2000 |
-| Cloudy with a Chance of Cloudy | eibei9 | 2000 | 2100 |
+| **Inflow** | NOVA | 0900 | 1000 |
+| **Let's Blow Up the SIEM and Start Over** <br/> | Craig Chamberlain | 1000 | 1100 |
+| **Aggressive Autonomous Actions - Operating with Automation** <br/> | Christopher Truncer | 1100 | 1200 |
+| **Lunch** | NOVA | 1200 | 1230 |
+| **Testing With Proxmox** <br/> | Fred M | 1230 | 1300 |
+| **The Jinja Ninja: Exploiting Jinja Template Engine for Code Execution** <br/> | Eyitemi Egbejule | 1300 | 1400 |
+| **How to People: When the Tech Works But Communication is Broken** <br/> --Everyday, new cyber attacks are crafted and new defenses are deployed. Infosec professionals are continuously learning new tools and techniques in order to keep up with the constantly evolving threat landscape and to work together to secure our future. Often times though, people focus on improving their technical skills but forget about the other key aspects of cybersecurity: teamwork and communication. | Mariah | 1400 | 1430 |
+| **PowerShell SSL/TLS Intercept Tool** <br/> | netsmith | 1430 | 1500 |
+| **Be Smart about Bringing Home IoT** <br/> | Josh | 1500 | 1600 |
+| **How to Solve Cybersecurity: New Paradigms for a New Era** <br/> | Sounil | 1600 | 1700 |
+| **Dinner** | NOVA | 1800 | 1830 |
+| **Empire Mice: Empire stagers via mousejacking** <br/> | Skylar Simmons | 1830 | 1900 |
+| **Watch All the Things** <br/> | Timothy Desrochers | 1900 | 2000 |
+| **Cloudy with a Chance of Cloudy** <br/> | eibei9 | 2000 | 2100 |
 
 # 2017 Schedule
 
