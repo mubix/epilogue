@@ -9,7 +9,8 @@
 | Lunch | NOVA | 1200 | 1230 |
 | Testing With Proxmox | Fred M | 1230 | 1300 |
 | The Jinja Ninja: Exploiting Jinja Template Engine for Code Execution | Eyitemi Egbejule | 1300 | 1400 |
-| How to People: When the Tech Works But Communication is Broken | Mariah | 1400 | 1500 |
+| How to People: When the Tech Works But Communication is Broken | Mariah | 1400 | 1430 |
+| PowerShell SSL/TLS Intercept Tool | netsmith | 1430 | 1500 |
 | Be Smart about Bringing Home IoT | Josh | 1500 | 1600 |
 | How to Solve Cybersecurity: New Paradigms for a New Era | Sounil | 1600 | 1700 |
 | Dinner | NOVA | 1800 | 1830 |
