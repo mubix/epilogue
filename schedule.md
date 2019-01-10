@@ -5,11 +5,11 @@
 |--------------------------------------------------------------------|:-------------------:|:----------:|:--------:|
 | **Inflow** | NOVA | 0900 | 1000 |
 | **Let's Blow Up the SIEM and Start Over** <br/> | Craig Chamberlain | 1000 | 1100 |
-| **Aggressive Autonomous Actions - Operating** <br/> with Automation | Christopher Truncer | 1100 | 1200 |
+| **Aggressive Autonomous Actions - Operating with Automation ** <br/> | Christopher Truncer | 1100 | 1200 |
 | **Lunch** | NOVA | 1200 | 1230 |
 | **Testing With Proxmox** <br/> | Fred M | 1230 | 1300 |
 | **The Jinja Ninja: Exploiting Jinja Template Engine for Code Execution** <br/> | Eyitemi Egbejule | 1300 | 1400 |
-| **How to People: When the Tech Works But Communication is Broken** <br/> | Mariah | 1400 | 1430 |
+| **How to People: When the Tech Works But Communication is Broken** <br/> --Everyday, new cyber attacks are crafted and new defenses are deployed. Infosec professionals are continuously learning new tools and techniques in order to keep up with the constantly evolving threat landscape and to work together to secure our future. Often times though, people focus on improving their technical skills but forget about the other key aspects of cybersecurity: teamwork and communication. | Mariah | 1400 | 1430 |
 | **PowerShell SSL/TLS Intercept Tool** <br/> | netsmith | 1430 | 1500 |
 | **Be Smart about Bringing Home IoT** <br/> | Josh | 1500 | 1600 |
 | **How to Solve Cybersecurity: New Paradigms for a New Era** <br/> | Sounil | 1600 | 1700 |
