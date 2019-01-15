@@ -18,8 +18,8 @@
 | **Empire Mice: Empire stagers via mousejacking** <br/> --MouseJacking is not a new technique, but it is still widely exploitable and a very useful technique to get your initial foothold in a network. In this presentation I plan to briefly talk about what mousejacking is and show how we can use it to inject a Empire stager to gain a foothold in our target network and begin pivoting. | Skylar Simmons | 1830 | 1900 |
 | **Watch All the Things** <br/> --The Endpoint Monitoring Team at Capital One deploys and manages one of the largest open source/freeware security solutions in the world. Combining the power of OSQuery, Sysmon, Windows Eventlogs, and NXLog, we are able to monitor tens of thousands of endpoints on-premise and in the cloud. The team develops and maintains simple pipelines to minimize the amount of overhead and cost while at the same time ensuring zero data lost from the endpoint to the SIEM. Our talk will discuss the critical infrastructure decisions we made, streaming vs batch data processing, as well as any custom integrations we developed to make the pipeline more robust. | Timothy Desrochers | 1900 | 2000 |
 | **Cloudy with a Chance of Cloudy** <br/> --AWS configuration settings, general and security-specific alike, are a combinatorial nightmare. This talks about basic concepts, how misunderstanding them leads to grave mistakes, and the next generation of pen-testing tools you can leverage against these misconfigurations to abuse yourself, your friends, and clients alike!  | eibei9 | 2000 | 2100 |
-| HAM CLASSES | Dakahuna | 1000 | 1400 |
-| HAM EXAMS | Dakahuna | 1200 | 1700 |
+| **HAM CLASSES** | Dakahuna | 1000 | 1400 |
+| **HAM EXAMS** | Dakahuna | 1200 | 1700 |
 
 
 # 2017 Schedule
