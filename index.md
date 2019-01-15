@@ -4,7 +4,7 @@
 
 ## What is ShmooCon Epilogue?
 
-The [NoVA Hackers Association](http://www.novahackers.com/), in association with our sponsors, are proud to present 7th Annual ShmooCon Epilogue. It is an all-day conference held the Monday following the Washington DC [ShmooCon](https://www.shmoocon.org/) (Monday) Conference. Tickets include all day access to the event, talks, CTF, as well as catered lunch and dinner. 
+The [NoVA Hackers Association](http://www.novahackers.com/), in association with our sponsors, are proud to present 7th Annual ShmooCon Epilogue. It is an all-day conference held the Monday following [ShmooCon](https://www.shmoocon.org/). Tickets include all day access to the event, talks, CTF, HAM Training as well as catered lunch and dinner. 
 
 ## When?
 
