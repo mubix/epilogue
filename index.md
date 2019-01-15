@@ -16,7 +16,9 @@ January 21st 2019, 9 AM to 9 PM
 
 Thanks to [CapitalOne](https://www.capitalone.com) for allowing us to use of their brand new conference center. See the [Venue](venue.md) page for more details
 
-Hotel Recommendations: [Hilton McLean Tysons Corner](https://www3.hilton.com/en/hotels/virginia/hilton-mclean-tysons-corner-MCLMHHH/index.html) OR [Courtyard Tysons Corner Fairfax](https://www.marriott.com/hotels/travel/wastn-courtyard-tysons-corner-fairfax/)
+Hotel Recommendations: 
+- [Hilton McLean Tysons Corner](https://www3.hilton.com/en/hotels/virginia/hilton-mclean-tysons-corner-MCLMHHH/index.html)
+- [Courtyard Tysons Corner Fairfax](https://www.marriott.com/hotels/travel/wastn-courtyard-tysons-corner-fairfax/)
 
 Airport Recommendation: **Washington Dulles (IAD)**
 
