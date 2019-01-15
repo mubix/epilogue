@@ -16,7 +16,7 @@
 | **Dinner** | NOVA | 1800 | 1830 |
 | **Empire Mice: Empire stagers via mousejacking** <br/> | Skylar Simmons | 1830 | 1900 |
 | **Watch All the Things** <br/> | Timothy Desrochers | 1900 | 2000 |
-| **Cloudy with a Chance of Cloudy** <br/> | eibei9 | 2000 | 2100 |
+| **Cloudy with a Chance of Cloud** <br/> -- With the ubiquity of cloud services for every layer of your stack, it is important to understand the innumerable combination of service offerings and the tyranny of the default! This talk will focus on the crowd favorite, AWS, and how defaults and/or lazy service hardening leads to a strong forecast of compromise, from internal or external actors! | Alexander Stein | 2000 | 2100 |
 
 # 2017 Schedule
 
