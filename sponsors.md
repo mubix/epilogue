@@ -2,7 +2,7 @@
 
 ## Become a Sponsor
 
-ShmooCon Epilogue can be supported at a few different levels. Each level awards different levels of branding and involvement in the event. EPI Events LLC is the company that houses the NoVA Hackers club interests and is a for-profit LLC. Please make checks out to “EPI Events LLC”, if credit card or bank transfer information is needed please contact - Rob Fuller (rob@novahackers.com) for more information.
+ShmooCon Epilogue can be supported at a few different levels. Each level awards different levels of branding and involvement in the event. EPI Events LLC is the company that houses the NoVA Hackers club interests and is a for-profit LLC. Please make checks out to “EPI Events LLC”; if credit card or bank transfer information is needed, please contact - Rob Fuller (rob@novahackers.com) for more information.
 
 ## Who attends ShmooCon Epilogue?
 
