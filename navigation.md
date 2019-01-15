@@ -5,5 +5,5 @@
 [Call for Papers](cfp.md)
 [Schedule](schedule.md)
 [Venue](venue.md)
-[CTF](ctf.md)
+[MetaCTF](ctf.md)
 [Sponsors](sponsors.md)
